@@ -1,4 +1,5 @@
-# Android Local Manifest for Samsung Galaxy Prevail LTE
+# Android Local Manifest
+# Samsung Galaxy Prevail LTE (SM-G360P)
 
 ## Instructions:
 Download `coreprimeltespr.xml` to android source folder
