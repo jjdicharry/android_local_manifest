@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="coreprimeltespr" fetch="https://github.com/jjdicharry" />
+
+  <project path="device/samsung/coreprimeltespr"
+           name="android_device_samsung_coreprimeltespr"
+           remote="coreprimeltespr" />
+
+   <!--  <default revision="android-4.4.4_r1"
+           remote="coreprimeltespr"
+           sync-j="4" />
+	   -->
+
+</manifest>
+
